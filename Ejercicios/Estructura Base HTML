@@ -1,0 +1,112 @@
+///Esto Es Lo Primero Que se pone en una Estroctura base de html///
+///Esto es la carne del cuerpo///
+<!DOCTYPE html>
+
+</html>
+
+///El head Es La Encapselera de la Pagina///
+<!DOCTYpE html>
+
+<head>
+
+</head>
+
+</html>
+
+///Esto Sirbe Para Ponerle nombre A La Pagina
+<!DOCTYPE html>
+
+<head>
+    <title>
+
+    </title>
+</head>
+
+</html>
+
+
+
+///Esto Es El Cuerpo De La Pagina///
+<!DOCTYPE html>
+
+<head>
+    <title>
+
+    </title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+
+///Esto Es La Cabeca de la Pagina///
+<!DOCTYPE html>
+
+<head>
+    <title>
+
+    </title>
+</head>
+
+<body>
+    <header>
+
+    </header>
+</body>
+
+</html>
+
+
+///Esto Es el Cuerpo De La Pagina///
+<!DOCTYPE html>
+
+<head>
+    <title>
+
+    </title>
+</head>
+
+<body>
+    <header>
+
+    </header>
+
+
+    <main>
+
+    </main>
+</body>
+
+</html>
+
+
+///Esto Es El Pie de La Pagina///
+///Esto Es La Estroctura Base De HTML
+<!DOCTYPE html>
+
+<head>
+    <title>
+
+    </title>
+</head>
+
+<body>
+    <header>
+
+    </header>
+
+
+    <main>
+
+    </main>
+
+
+    <footer>
+
+    </footer>
+</body>
+
+</html>
