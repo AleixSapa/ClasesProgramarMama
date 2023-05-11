@@ -1,4 +1,4 @@
-///Esto Es Lo Primero Que se pone en una Estroctura base de html///
+///Esto Es Lo Primero Que se pone en una Estructura base de html///
 ///Esto es la carne del cuerpo///
 <!DOCTYPE html>
 
@@ -13,7 +13,7 @@
 
 </html>
 
-///Esto Sirbe Para Ponerle nombre A La Pagina
+///Esto Sirbe Para Ponerle nombre A La Pagina///
 <!DOCTYPE html>
 
 <head>

@@ -1,2 +1,2 @@
 # ClasesProgramarMama
-Enseñar a programar a la mama
+# Eticetes De Estructura
